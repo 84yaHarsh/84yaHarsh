@@ -1,42 +1,25 @@
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=90&section=header&text=harsh@github:~$%20cat%20README.md&fontSize=24&fontColor=BB86FC&fontAlignY=55&animation=fadeIn&desc=&fontFamily=monospace" width="100%"/>
 
 </div>
 
+<br/>
+
 <table width="100%">
 <tr>
-<td width="30%" valign="top" align="center">
+<td>
 
-<img src="./assets/profile.jpg" width="230" alt="Harsh Chaurasia"/>
+<table width="100%">
+<tr>
+<td width="75%">
 
-<br/><br/>
-
-![Available](https://img.shields.io/badge/●_AVAILABLE_FOR_OPPORTUNITIES-0D1117?style=for-the-badge&labelColor=6C2BD9&color=0D1117)
+<h2> &gt; ABOUT ME </h2>
 
 </td>
-<td width="70%" valign="top">
+<td width="25%" align="right">
 
-<h2>👨‍💻 About Me&nbsp;&nbsp;<img src="https://img.shields.io/badge/●_LIVE-0D1117?style=flat-square&color=00F0FF"/></h2>
-
-[![Email](https://img.shields.io/badge/chauharsh12345@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00F0FF&color=1A1035)](mailto:chauharsh12345@gmail.com)
-
-```yaml
-Name           : Harsh Kumar Chaurasia
-Role           : Software Engineer
-Specialization : AI/ML • Full-Stack Development
-Education      : B.Tech CSE (2023 - 2027)
-College        : GL Bajaj Institute of Technology & Management
-Location       : Greater Noida, Uttar Pradesh, India
-CGPA           : 7.77
-DSA            : 300+ Problems Solved
-Focus          : AI-powered products & scalable, secure applications
-```
-
-<a href="https://www.linkedin.com/in/84yaharsh/"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=1A1035" /></a>
-<a href="mailto:chauharsh12345@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=BB86FC&color=1A1035" /></a>
-<a href="https://github.com/84yaHarsh"><img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&color=1A1035" /></a>
+<img src="https://img.shields.io/badge/●_LIVE-0D1117?style=flat-square&color=00F0FF"/>
 
 </td>
 </tr>
@@ -44,16 +27,51 @@ Focus          : AI-powered products & scalable, secure applications
 
 <br/>
 
+<pre>
+Name           : Harsh Kumar Chaurasia
+Role           : Software Engineer
+Specialization : AI/ML • Full-Stack Development
+Education      : B.Tech CSE (2023–2027)
+College        : GL Bajaj Institute of Technology & Management
+Location       : Greater Noida, Uttar Pradesh, India
+CGPA           : 7.77
+DSA            : 300+ Problems Solved
+Focus          : AI-powered products & scalable, secure applications
+</pre>
+
+<br/>
+
 <div align="center">
 
-## 📊 GitHub Metrics
+<a href="https://www.linkedin.com/in/84yaharsh/">
+<img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=1A1035"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=84yaHarsh&label=PROFILE+VIEWS&color=6C2BD9&style=for-the-badge&labelColor=0D1117" />
-<img src="https://img.shields.io/github/followers/84yaHarsh?label=FOLLOWERS&style=for-the-badge&labelColor=0D1117&color=00A8CC&logo=github&logoColor=white" />
+<a href="mailto:chauharsh12345@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=BB86FC&color=1A1035"/>
+</a>
+
+<a href="https://github.com/84yaHarsh">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&color=1A1035"/>
+</a>
 
 </div>
 
-<sub>Total stars across repos are shown in the <b>GitHub Stats</b> card below — GitHub has no native "total stars" badge, so that number is pulled live from the stats card rather than faked here.</sub>
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 GitHub Metrics
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=84yaHarsh&label=PROFILE+VIEWS&color=6C2BD9&style=for-the-badge&labelColor=0D1117"/>
+
+<img src="https://img.shields.io/github/followers/84yaHarsh?label=FOLLOWERS&style=for-the-badge&labelColor=0D1117&color=00A8CC&logo=github&logoColor=white"/>
+
+</div>
 
 <br/>
 
@@ -72,7 +90,9 @@ Focus          : AI-powered products & scalable, secure applications
 ## 📈 Contribution Activity
 
 <div align="center">
+
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=84yaHarsh&bg_color=0D1117&color=00F0FF&line=BB86FC&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
 </div>
 
 <br/>
@@ -81,9 +101,7 @@ Focus          : AI-powered products & scalable, secure applications
 
 <div align="center">
 
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="contribution snake animation"/>
-<!--END_SECTION:snake-->
+<img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake"/>
 
 </div>
 
@@ -93,6 +111,7 @@ Focus          : AI-powered products & scalable, secure applications
 
 <table width="100%">
 <tr>
+
 <td width="50%" valign="top">
 
 ### 🛡️ CodeGuard-AI
@@ -101,7 +120,9 @@ AI-powered security review agent that analyzes GitHub repositories across multip
 
 **Tech:** `React` · `Node.js` · `Express` · `SQLite` · `Groq`
 
-<a href="https://github.com/84yaHarsh/CodeGuard-AI">View Project →</a>
+<a href="https://github.com/84yaHarsh/CodeGuard-AI">
+View Project →
+</a>
 
 </td>
 
@@ -113,12 +134,16 @@ AI companion featuring a real-time VRM avatar, facial-expression tracking, text-
 
 **Tech:** `React` · `Three.js` · `Node.js` · `MongoDB` · `Groq`
 
-<a href="https://github.com/84yaHarsh/Mikasa">View Project →</a>
+<a href="https://github.com/84yaHarsh/Mikasa">
+View Project →
+</a>
 
 </td>
+
 </tr>
 
 <tr>
+
 <td colspan="2" valign="top">
 
 ### 🔗 SyncMeet
@@ -127,18 +152,22 @@ Full-stack video conferencing platform with JWT authentication, Google OAuth, HT
 
 **Tech:** `React` · `Node.js` · `Socket.io` · `WebRTC` · `JWT` · `Google OAuth`
 
-<a href="https://github.com/84yaHarsh/SyncMeet">View Project →</a>
+<a href="https://github.com/84yaHarsh/SyncMeet">
+View Project →
+</a>
 
 </td>
+
 </tr>
 </table>
 
+<br/>
 
 ## 🛠️ Tech Stack
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,react,nodejs,express,mongodb,postgres,docker,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,cpp,python,react,nodejs,express,mongodb,postgres,docker,git,github&theme=dark"/>
 
 </div>
 
@@ -152,25 +181,3 @@ Full-stack video conferencing platform with JWT authentication, Google OAuth, HT
 - Real-time systems: WebRTC, Socket.io, low-latency media pipelines
 - Strong DSA foundation — 300+ problems solved, actively interview-prepping
 - Secure-by-default design: JWT, OAuth 2.0, role-based access control
-```
-
-<br/>
-
-## 🔗 Connect With Me
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/84yaharsh/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&color=1A1035"/></a>
-<a href="mailto:chauharsh12345@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=BB86FC&color=1A1035"/></a>
-<a href="https://github.com/84yaHarsh"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&color=1A1035"/></a>
-
-</div>
-
-<br/>
-<br/>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2B0B4F,100:0D1117&height=120&section=footer&text=Code.%20Learn.%20Build.%20Repeat.%20🚀&fontSize=20&fontColor=BB86FC&fontAlignY=70&fontFamily=monospace" width="100%"/>
-
-</div>
