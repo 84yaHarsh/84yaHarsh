@@ -18,7 +18,7 @@
 </td>
 <td width="70%" valign="top">
 
-<h3>&gt; SYSTEM.INFO&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/●_LIVE-0D1117?style=flat-square&color=00F0FF"/></h3>
+<h2>👨‍💻 About Me&nbsp;&nbsp;<img src="https://img.shields.io/badge/●_LIVE-0D1117?style=flat-square&color=00F0FF"/></h2>
 
 [![Email](https://img.shields.io/badge/chauharsh12345@gmail.com-0D1117?style=flat-square&logo=gmail&logoColor=00F0FF&color=1A1035)](mailto:chauharsh12345@gmail.com)
 
@@ -46,7 +46,7 @@ Focus          : AI-powered products & scalable, secure applications
 
 <div align="center">
 
-### &gt; PROFILE.METRICS
+## 📊 GitHub Metrics
 
 <img src="https://komarev.com/ghpvc/?username=84yaHarsh&label=PROFILE+VIEWS&color=6C2BD9&style=for-the-badge&labelColor=0D1117" />
 <img src="https://img.shields.io/github/followers/84yaHarsh?label=FOLLOWERS&style=for-the-badge&labelColor=0D1117&color=00A8CC&logo=github&logoColor=white" />
