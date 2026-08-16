@@ -167,7 +167,10 @@ Full-stack video conferencing platform with JWT authentication, Google OAuth, HT
 </div>
 
 <br/>
+<br/>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2B0B4F,100:0D1117&height=110&section=footer&text=Code.%20Learn.%20Build.%20Repeat.%20🚀&fontSize=18&fontColor=BB86FC&fontAlignY=75&fontFamily=monospace" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:2B0B4F,100:0D1117&height=120&section=footer&text=Code.%20Learn.%20Build.%20Repeat.%20🚀&fontSize=20&fontColor=BB86FC&fontAlignY=70&fontFamily=monospace" width="100%"/>
+
 </div>
