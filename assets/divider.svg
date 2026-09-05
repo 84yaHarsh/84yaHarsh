@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="26" viewBox="0 0 1000 26" fill="none" role="img" aria-label="animated neon divider">
+  <defs>
+    <linearGradient id="dl" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BB86FC" stop-opacity="0"/>
+      <stop offset="18%" stop-color="#BB86FC" stop-opacity="0.95"/>
+      <stop offset="50%" stop-color="#00F0FF" stop-opacity="1"/>
+      <stop offset="82%" stop-color="#FF2E97" stop-opacity="0.95"/>
+      <stop offset="100%" stop-color="#FF2E97" stop-opacity="0"/>
+      <animate attributeName="x1" values="-0.6;0;0.6" dur="6s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0.4;1;1.6" dur="6s" repeatCount="indefinite"/>
+    </linearGradient>
+    <radialGradient id="dorb" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#FFFFFF" stop-opacity="0.95"/>
+      <stop offset="35%" stop-color="#00F0FF" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="dglow" x="-200%" y="-400%" width="500%" height="900%">
+      <feGaussianBlur stdDeviation="3" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <style>
+      .tk { animation: tk 3.2s ease-in-out infinite; }
+      @keyframes tk { 0%,100%{opacity:.25} 50%{opacity:.8} }
+      .tk2{animation-delay:.5s}.tk3{animation-delay:1s}.tk4{animation-delay:1.5s}.tk5{animation-delay:2s}
+    </style>
+  </defs>
+
+  <rect x="0" y="12" width="1000" height="2" rx="1" fill="url(#dl)" filter="url(#dglow)"/>
+
+  <g fill="#BB86FC">
+    <rect class="tk"  x="140" y="8"  width="2" height="10" rx="1"/>
+    <rect class="tk tk2" x="330" y="8"  width="2" height="10" rx="1"/>
+    <rect class="tk tk3" x="500" y="6"  width="2" height="14" rx="1" fill="#00F0FF"/>
+    <rect class="tk tk4" x="670" y="8"  width="2" height="10" rx="1"/>
+    <rect class="tk tk5" x="860" y="8"  width="2" height="10" rx="1" fill="#FF2E97"/>
+  </g>
+
+  <circle cx="0" cy="13" r="13" fill="url(#dorb)">
+    <animate attributeName="cx" values="-20;1020" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="0" cy="13" r="2.6" fill="#FFFFFF" filter="url(#dglow)">
+    <animate attributeName="cx" values="-20;1020" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
