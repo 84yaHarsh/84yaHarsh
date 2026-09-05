@@ -32,7 +32,7 @@
     <clipPath id="c3"><rect x="30" y="168" width="542" height="26"><animate attributeName="width" from="0" to="542" dur="1.0s" begin="2.6s" fill="freeze"/></rect></clipPath>
     <clipPath id="c4"><rect x="30" y="200" width="430" height="26"><animate attributeName="width" from="0" to="430" dur="0.8s" begin="3.6s" fill="freeze"/></rect></clipPath>
     <clipPath id="c5"><rect x="30" y="232" width="486" height="26"><animate attributeName="width" from="0" to="486" dur="0.9s" begin="4.4s" fill="freeze"/></rect></clipPath>
-    <clipPath id="c6"><rect x="30" y="264" width="364" height="26"><animate attributeName="width" from="0" to="364" dur="0.7s" begin="5.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="30" y="264" width="460" height="26"><animate attributeName="width" from="0" to="460" dur="0.7s" begin="5.3s" fill="freeze"/></rect></clipPath>
     <clipPath id="c7"><rect x="30" y="296" width="430" height="26"><animate attributeName="width" from="0" to="430" dur="0.8s" begin="6.0s" fill="freeze"/></rect></clipPath>
 
     <style>
@@ -85,7 +85,7 @@
     <g clip-path="url(#c3)" class="ln t3"><text x="30" y="186"><tspan class="a">&#9656; </tspan><tspan class="k">education&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">B.Tech CSE @ GL Bajaj &#183; 2023-27 &#183; 7.77 CGPA</tspan></text></g>
     <g clip-path="url(#c4)" class="ln t4"><text x="30" y="218"><tspan class="a">&#9656; </tspan><tspan class="k">location&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">Greater Noida, Uttar Pradesh, IN</tspan></text></g>
     <g clip-path="url(#c5)" class="ln t5"><text x="30" y="250"><tspan class="a">&#9656; </tspan><tspan class="k">building&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">autonomous AI agents + real-time apps</tspan></text></g>
-    <g clip-path="url(#c6)" class="ln t6"><text x="30" y="282"><tspan class="a">&#9656; </tspan><tspan class="k">dsa&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">300+ DSA problems solved</tspan></text></g>
+    <g clip-path="url(#c6)" class="ln t6"><text x="30" y="282"><tspan class="a">&#9656; </tspan><tspan class="k">dsa&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">300+ DSA problems across platforms</tspan></text></g>
     <g clip-path="url(#c7)" class="ln t7"><text x="30" y="314"><tspan class="a">&#9656; </tspan><tspan class="k">status&#160;&#160;&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan fill="#28C840">open to SWE / AI-ML internships</tspan></text></g>
     <text x="30" y="350" class="ln t7"><tspan class="p">&#10095;</tspan><tspan class="dim"> ~/profile </tspan><tspan class="a">$</tspan></text>
     <rect class="cur" x="160" y="336" width="10" height="19" fill="#00F0FF" fill-opacity="0.85"/>

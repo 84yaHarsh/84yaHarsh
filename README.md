@@ -5,7 +5,7 @@
   <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/hero.svg" width="100%" alt="Harsh Kumar Chaurasia — Software Engineer, AI/ML and Full-Stack Developer" />
 </a>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3800&pause=1100&color=9BE8F5&center=true&vCenter=true&width=880&height=52&lines=Autonomous+AI+agents+with+LLM+tool-calling+%2B+RAG;Full-stack+React+%2F+Node+%2F+Express+%2F+SQL+%2B+NoSQL;Real-time+media+%3A+WebRTC+%2B+Socket.IO;Secure+by+default+%3A+JWT+%2C+OAuth+2.0+%2C+RBAC;300%2B+DSA+problems+solved+and+counting" alt="What I build" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3800&pause=1100&color=9BE8F5&center=true&vCenter=true&width=880&height=52&lines=Autonomous+AI+agents+with+LLM+tool-calling+%2B+RAG;Full-stack+React+%2F+Node+%2F+Express+%2F+SQL+%2B+NoSQL;Real-time+media+%3A+WebRTC+%2B+Socket.IO;Secure+by+default+%3A+JWT+%2C+OAuth+2.0+%2C+RBAC;300%2B+DSA+problems+across+platforms+including+LeetCode" alt="What I build" />
 
 <p>
   <a href="https://harshchaurasiaportfolio.netlify.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=netlify&logoColor=00F0FF&labelColor=0D1117&color=1A1035" alt="Portfolio" /></a>
@@ -108,7 +108,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=BB86FC&fontAlignY=62&animation=fadeIn&fontFamily=monospace&text=%2F%2F%20problem%20solving" width="100%" alt="problem solving" />
 
-<img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/dsa.svg" width="100%" alt="300+ DSA problems solved, core CS foundations" />
+<img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/dsa.svg" width="100%" alt="300+ DSA problems across platforms including LeetCode, plus core CS foundations" />
 
 <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/divider.svg" width="100%" alt="" />
 
