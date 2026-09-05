@@ -16,23 +16,23 @@
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=84yaHarsh&label=PROFILE+VIEWS&color=6C2BD9&style=for-the-badge&labelColor=0D1117" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/84yaHarsh?label=FOLLOWERS&style=for-the-badge&labelColor=0D1117&color=6C2BD9&logo=github&logoColor=00F0FF" alt="Followers" />
+  <img src="https://img.shields.io/badge/BASED%20IN-GREATER%20NOIDA%2C%20IN-0D1117?style=for-the-badge&labelColor=0D1117&color=1A1035" alt="Based in Greater Noida, India" />
   <img src="https://img.shields.io/badge/OPEN%20TO-SWE%20%2F%20AI--ML%20ROLES-0D1117?style=for-the-badge&labelColor=0D1117&color=1F7A3F" alt="Open to roles" />
 </p>
 
 <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/divider.svg" width="100%" alt="" />
 
-<!-- ════════════════════════════════  W H O A M I  ════════════════════════════════ -->
+<!-- ════════════════════════════════  A B O U T  ════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=00F0FF&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20whoami" width="100%" alt="whoami" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=00F0FF&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20about" width="100%" alt="about" />
 
 <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/terminal.svg" width="100%" alt="Animated terminal printing Harsh's profile" />
 
 <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/divider.svg" width="100%" alt="" />
 
-<!-- ════════════════════════════════  T E C H   A R S E N A L  ════════════════════════════════ -->
+<!-- ════════════════════════════════  T E C H   S T A C K  ════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=BB86FC&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20tech%20arsenal" width="100%" alt="tech arsenal" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=BB86FC&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20tech%20stack" width="100%" alt="tech stack" />
 
 <p>
   <img src="https://img.shields.io/badge/LANGUAGES-0D1117?style=flat-square&labelColor=0D1117&color=00F0FF" alt="languages" />
@@ -62,32 +62,18 @@
 
 <!-- ════════════════════════════════  M E T R I C S  ════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=00F0FF&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20github%20metrics" width="100%" alt="github metrics" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=00F0FF&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20github%20activity" width="100%" alt="github activity" />
 
 <p>
-  <img src="https://github-widgetbox.vercel.app/api/profile?username=84yaHarsh&data=followers,repositories,stars,commits&theme=darkmode" alt="Profile summary" />
-</p>
-<p>
-  <img src="https://github-stats-extended.vercel.app/api?username=84yaHarsh&show_icons=true&hide_border=true&bg_color=0D1117&title_color=BB86FC&icon_color=00F0FF&text_color=C9D1D9&include_all_commits=true&rank_icon=github" height="180" alt="GitHub stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=84yaHarsh&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9" height="180" alt="Top languages" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=84yaHarsh&hide_border=true&background=0D1117&stroke=6C2BD9&ring=BB86FC&fire=FF2E97&currStreakLabel=00F0FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=00F0FF&dates=8B949E" alt="Contribution streak" />
-</p>
-<p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=84yaHarsh&theme=github_dark" height="200" alt="Repos per language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=84yaHarsh&theme=github_dark" height="200" alt="Most committed language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=84yaHarsh&theme=github_dark&utcOffset=5" height="200" alt="Productive time" />
-</p>
-<p>
-  <img src="https://github-trophies.vercel.app/?username=84yaHarsh&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" width="100%" alt="GitHub trophies" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=84yaHarsh&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=BB86FC&text_color=C9D1D9&custom_title=Languages%20by%20Volume" height="190" alt="Most used languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=84yaHarsh&theme=github_dark&utcOffset=5" height="190" alt="Commit activity by hour of day" />
 </p>
 
 <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/divider.svg" width="100%" alt="" />
 
 <!-- ════════════════════════════════  S N A K E  ════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=BB86FC&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20contribution%20snake" width="100%" alt="contribution snake" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=BB86FC&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20contribution%20graph" width="100%" alt="contribution graph" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/output/github-contribution-grid-snake-dark.svg" />
@@ -97,9 +83,9 @@
 
 <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/divider.svg" width="100%" alt="" />
 
-<!-- ════════════════════════════════  B U I L D S  ════════════════════════════════ -->
+<!-- ════════════════════════════════  P R O J E C T S  ════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=00F0FF&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20featured%20builds" width="100%" alt="featured builds" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=00F0FF&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20featured%20projects" width="100%" alt="featured projects" />
 
 <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/projects.svg" width="100%" alt="Featured projects: CodeGuard AI, SyncMeet, Mikasa" />
 
@@ -120,11 +106,9 @@
 
 <!-- ════════════════════════════════  D S A  ════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=BB86FC&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20dsa%20grind" width="100%" alt="dsa grind" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=BB86FC&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20problem%20solving" width="100%" alt="problem solving" />
 
-<a href="https://leetcode.com/u/Harsh_Chaurasia_/">
-  <img src="https://leetcard.jacoblin.cool/Harsh_Chaurasia_?theme=nord&font=Fira%20Code&ext=heatmap&border=0&radius=14" width="520" alt="LeetCode stats and submission heatmap" />
-</a>
+<img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/dsa.svg" width="100%" alt="300+ DSA problems solved, core CS foundations" />
 
 <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/divider.svg" width="100%" alt="" />
 
@@ -139,9 +123,9 @@
 
 <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/divider.svg" width="100%" alt="" />
 
-<!-- ════════════════════════════════  C O N N E C T  ════════════════════════════════ -->
+<!-- ════════════════════════════════  C O N T A C T  ════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=BB86FC&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20connect" width="100%" alt="connect" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=BB86FC&fontAlignY=62&animation=twinkling&fontFamily=monospace&text=%2F%2F%20contact" width="100%" alt="contact" />
 
 <p>
   <a href="https://www.linkedin.com/in/84yaharsh/"><img src="https://img.shields.io/badge/LinkedIn-84yaharsh-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF&labelColor=0D1117&color=1A1035" alt="LinkedIn" /></a>
@@ -150,9 +134,7 @@
   <a href="https://leetcode.com/u/Harsh_Chaurasia_/"><img src="https://img.shields.io/badge/LeetCode-Harsh__Chaurasia__-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116&labelColor=0D1117&color=1A1035" alt="LeetCode" /></a>
 </p>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random dev quote" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1035,45:6C2BD9,100:00F0FF&height=170&section=footer&fontSize=26&fontColor=FFFFFF&fontAlignY=70&fontFamily=monospace&animation=fadeIn&text=Code%20%C2%B7%20Ship%20%C2%B7%20Iterate&desc=thanks%20for%20scrolling%20-%20let%27s%20build%20something&descSize=14&descAlignY=87" width="100%" alt="Code, ship, iterate" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1035,45:6C2BD9,100:00F0FF&height=170&section=footer&fontSize=26&fontColor=FFFFFF&fontAlignY=70&fontFamily=monospace&animation=fadeIn&text=Code%20%C2%B7%20Ship%20%C2%B7%20Iterate&desc=Open%20to%20Software%20Engineering%20and%20AI%2FML%20opportunities&descSize=14&descAlignY=87" width="100%" alt="Code, ship, iterate" />
 
 
 

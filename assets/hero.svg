@@ -37,9 +37,9 @@
     </radialGradient>
 
     <filter id="neon" x="-60%" y="-60%" width="220%" height="220%">
-      <feGaussianBlur stdDeviation="7" result="b1"/>
+      <feGaussianBlur stdDeviation="4" result="b1"/>
       <feMerge>
-        <feMergeNode in="b1"/><feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/>
+        <feMergeNode in="b1"/><feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
     <filter id="soft" x="-60%" y="-60%" width="220%" height="220%">
@@ -112,7 +112,7 @@
   </g>
 
   <g class="rise d1">
-    <text x="500" y="72" text-anchor="middle" class="tag" fill="#00F0FF" opacity="0.9">&#60;/&#62; W E L C O M E &#160;&#183;&#160; T O &#160;&#183;&#160; M Y &#160;&#183;&#160; L A B</text>
+    <text x="500" y="72" text-anchor="middle" class="tag" fill="#00F0FF" opacity="0.9">B . T E C H &#160; C S E &#160;&#183;&#160; G L &#160; B A J A J &#160;&#183;&#160; 2 0 2 3 &#8211; 2 7</text>
   </g>
 
   <text x="500" y="146" text-anchor="middle" class="name flick" fill="url(#sweep)" filter="url(#neon)">HARSH CHAURASIA</text>
