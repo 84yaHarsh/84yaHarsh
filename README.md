@@ -117,9 +117,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,50:2B0B4F,100:0D1117&height=56&section=header&fontSize=22&fontColor=00F0FF&fontAlignY=62&animation=fadeIn&fontFamily=monospace&text=%2F%2F%20certifications" width="100%" alt="certifications" />
 
 <p>
-  <img src="https://img.shields.io/badge/AI--ML%20VIRTUAL%20INTERNSHIP-EduSkills%20%2F%20AICTE-0D1117?style=for-the-badge&logo=googlescholar&logoColor=00F0FF&labelColor=0D1117&color=1A1035" alt="AI-ML Virtual Internship, EduSkills and AICTE" />
-  <img src="https://img.shields.io/badge/AGENTIC%20AI%20%C2%B7%20PYTHON%20%C2%B7%20LANGCHAIN-Jul%202026-0D1117?style=for-the-badge&logo=langchain&logoColor=BB86FC&labelColor=0D1117&color=1A1035" alt="Agentic AI with Python and LangChain" />
+  <a href="https://drive.google.com/file/d/1n0ekoBrhhke2if8b29df_ZjJqThLy7Mj/view" target="_blank" title="View certificate"><img src="https://img.shields.io/badge/AI--ML%20VIRTUAL%20INTERNSHIP-EduSkills%20%2F%20AICTE-0D1117?style=for-the-badge&logo=googlescholar&logoColor=00F0FF&labelColor=0D1117&color=1A1035" alt="AI-ML Virtual Internship, EduSkills and AICTE" /></a>
+  <a href="https://freeacademy.ai/verify/FA-2026-AAPL-B3B3E4" target="_blank" title="Verify credential FA-2026-AAPL-B3B3E4"><img src="https://img.shields.io/badge/AGENTIC%20AI%20%C2%B7%20PYTHON%20%C2%B7%20LANGCHAIN-Jul%202026-0D1117?style=for-the-badge&logo=langchain&logoColor=BB86FC&labelColor=0D1117&color=1A1035" alt="Agentic AI with Python and LangChain" /></a>
 </p>
+
+<p><sub>&#8599; both badges open the verifiable certificate</sub></p>
 
 <img src="https://raw.githubusercontent.com/84yaHarsh/84yaHarsh/main/assets/divider.svg" width="100%" alt="" />
 
