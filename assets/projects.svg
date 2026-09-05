@@ -10,23 +10,17 @@
       <stop offset="0%" stop-color="#BB86FC"/><stop offset="100%" stop-color="#FF2E97"/>
     </linearGradient>
     <linearGradient id="pacc3" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#FF2E97"/><stop offset="100%" stop-color="#00F0FF"/>
+      <stop offset="0%" stop-color="#BB86FC"/><stop offset="100%" stop-color="#00F0FF"/>
     </linearGradient>
+    <!-- Static: project names stay legible instead of shimmering. -->
     <linearGradient id="ptitle" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#FFFFFF"/><stop offset="55%" stop-color="#BB86FC"/><stop offset="100%" stop-color="#00F0FF"/>
-      <animate attributeName="x1" values="-0.8;0;0.8" dur="7s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="0.2;1;1.8" dur="7s" repeatCount="indefinite"/>
+      <stop offset="0%" stop-color="#FFFFFF"/><stop offset="100%" stop-color="#C6ADFF"/>
     </linearGradient>
-    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0"/>
-      <stop offset="50%" stop-color="#BB86FC" stop-opacity="0.85"/>
-      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0"/>
-      <animate attributeName="x1" values="-1.2;1" dur="5.5s" repeatCount="indefinite"/>
-      <animate attributeName="x2" values="-0.2;2" dur="5.5s" repeatCount="indefinite"/>
+    <linearGradient id="ptop" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#00F0FF" stop-opacity="0.30"/>
+      <stop offset="45%" stop-color="#BB86FC" stop-opacity="0.40"/>
+      <stop offset="100%" stop-color="#00F0FF" stop-opacity="0.04"/>
     </linearGradient>
-    <filter id="psoft" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
     <style>
       .num { font: 700 26px 'Courier New', ui-monospace, monospace; letter-spacing:1px; }
       .ttl { font: 700 20px 'Courier New', ui-monospace, monospace; letter-spacing:0.6px; }
@@ -34,57 +28,55 @@
       .pch { font: 400 12.5px 'Courier New', ui-monospace, monospace; letter-spacing:0.2px; }
       .tec { font: 600 11.5px 'Courier New', ui-monospace, monospace; letter-spacing:0.6px; }
       .pil { font: 700 10.5px 'Courier New', ui-monospace, monospace; letter-spacing:1.6px; }
+      /* Cards deal in once, then hold. No looping shine, no bouncing arrows. */
       .blk { opacity:0; animation: slidein .8s cubic-bezier(.2,.8,.2,1) forwards; }
       @keyframes slidein { from{opacity:0; transform:translateX(-16px)} to{opacity:1; transform:translateX(0)} }
       .b1{animation-delay:.15s}.b2{animation-delay:.5s}.b3{animation-delay:.85s}
       .acc { transform: scaleY(0); transform-box: fill-box; transform-origin: top; animation: grow .9s cubic-bezier(.2,.8,.2,1) forwards; }
       @keyframes grow { to { transform: scaleY(1) } }
       .a1{animation-delay:.35s}.a2{animation-delay:.7s}.a3{animation-delay:1.05s}
-      .chev { animation: chev 2.4s ease-in-out infinite; }
-      @keyframes chev { 0%,100%{opacity:.3; transform:translateX(0)} 50%{opacity:1; transform:translateX(5px)} }
-      .c2{animation-delay:.3s}.c3{animation-delay:.6s}
     </style>
   </defs>
 
   <g class="blk b1">
     <rect x="14" y="14" width="912" height="118" rx="12" fill="url(#pcard)" stroke="#2A2140" stroke-width="1"/>
-    <rect x="14" y="14" width="912" height="1.6" fill="url(#shine)"/>
-    <rect class="acc a1" x="14" y="14" width="4.5" height="118" rx="2" fill="url(#pacc1)" filter="url(#psoft)"/>
+    <rect x="14" y="14" width="912" height="1.4" fill="url(#ptop)"/>
+    <rect class="acc a1" x="14" y="14" width="4.5" height="118" rx="2" fill="url(#pacc1)"/>
     <text x="42" y="58" class="num" fill="#7C2BFF" opacity="0.55">01</text>
     <text x="92" y="46" class="ttl" fill="url(#ptitle)">CodeGuard AI</text>
     <text x="92" y="68" class="sub" fill="#00F0FF">AUTONOMOUS SECURITY REVIEW AGENT</text>
     <text x="92" y="92" class="pch" fill="#B9C2CE">Audits any GitHub repo across 5 vulnerability classes with a plan &#8594; act &#8594; evaluate &#8594; reflect loop.</text>
     <text x="92" y="114" class="tec" fill="#8B79C9">React &#183; Node &#183; Express &#183; SQLite &#183; Groq Llama 3.3 70B &#183; Cerebras fallback</text>
-    <rect x="806" y="30" width="102" height="22" rx="11" fill="#00F0FF" fill-opacity="0.10" stroke="#00F0FF" stroke-opacity="0.5"/>
+    <rect x="806" y="30" width="102" height="22" rx="11" fill="#00F0FF" fill-opacity="0.09" stroke="#00F0FF" stroke-opacity="0.42"/>
     <text x="857" y="45" text-anchor="middle" class="pil" fill="#00F0FF">AI AGENT</text>
-    <text x="908" y="116" text-anchor="end" class="tec chev" fill="#00F0FF">OPEN &#8594;</text>
+    <text x="908" y="116" text-anchor="end" class="tec" fill="#00F0FF" opacity="0.8">OPEN &#8594;</text>
   </g>
 
   <g class="blk b2">
     <rect x="14" y="150" width="912" height="118" rx="12" fill="url(#pcard)" stroke="#2A2140" stroke-width="1"/>
-    <rect x="14" y="150" width="912" height="1.6" fill="url(#shine)"/>
-    <rect class="acc a2" x="14" y="150" width="4.5" height="118" rx="2" fill="url(#pacc2)" filter="url(#psoft)"/>
+    <rect x="14" y="150" width="912" height="1.4" fill="url(#ptop)"/>
+    <rect class="acc a2" x="14" y="150" width="4.5" height="118" rx="2" fill="url(#pacc2)"/>
     <text x="42" y="194" class="num" fill="#BB86FC" opacity="0.55">02</text>
     <text x="92" y="182" class="ttl" fill="url(#ptitle)">SyncMeet</text>
     <text x="92" y="204" class="sub" fill="#FF2E97">REAL-TIME VIDEO CONFERENCING PLATFORM</text>
     <text x="92" y="228" class="pch" fill="#B9C2CE">Role-based JWT in HTTP-only cookies, protected TURN creds, newcomer-initiates-offer WebRTC handshake.</text>
     <text x="92" y="250" class="tec" fill="#8B79C9">React &#183; Node &#183; Express &#183; Socket.IO &#183; WebRTC &#183; JWT &#183; Google OAuth 2.0</text>
-    <rect x="806" y="166" width="102" height="22" rx="11" fill="#FF2E97" fill-opacity="0.10" stroke="#FF2E97" stroke-opacity="0.5"/>
+    <rect x="806" y="166" width="102" height="22" rx="11" fill="#FF2E97" fill-opacity="0.09" stroke="#FF2E97" stroke-opacity="0.42"/>
     <text x="857" y="181" text-anchor="middle" class="pil" fill="#FF2E97">REAL-TIME</text>
-    <text x="908" y="252" text-anchor="end" class="tec chev c2" fill="#FF2E97">OPEN &#8594;</text>
+    <text x="908" y="252" text-anchor="end" class="tec" fill="#FF2E97" opacity="0.8">OPEN &#8594;</text>
   </g>
 
   <g class="blk b3">
     <rect x="14" y="286" width="912" height="118" rx="12" fill="url(#pcard)" stroke="#2A2140" stroke-width="1"/>
-    <rect x="14" y="286" width="912" height="1.6" fill="url(#shine)"/>
-    <rect class="acc a3" x="14" y="286" width="4.5" height="118" rx="2" fill="url(#pacc3)" filter="url(#psoft)"/>
-    <text x="42" y="330" class="num" fill="#FF2E97" opacity="0.55">03</text>
+    <rect x="14" y="286" width="912" height="1.4" fill="url(#ptop)"/>
+    <rect class="acc a3" x="14" y="286" width="4.5" height="118" rx="2" fill="url(#pacc3)"/>
+    <text x="42" y="330" class="num" fill="#7C2BFF" opacity="0.55">03</text>
     <text x="92" y="318" class="ttl" fill="url(#ptitle)">Mikasa</text>
     <text x="92" y="340" class="sub" fill="#BB86FC">EMOTIONALLY INTELLIGENT AI COMPANION</text>
     <text x="92" y="364" class="pch" fill="#B9C2CE">Live VRM avatar, facial-expression tracking, TTS voice pipeline, Hindi / English / Hinglish chat.</text>
     <text x="92" y="386" class="tec" fill="#8B79C9">React &#183; Three.js &#183; react-three-fiber &#183; three-vrm &#183; face-api.js &#183; MongoDB &#183; Groq</text>
-    <rect x="806" y="302" width="102" height="22" rx="11" fill="#BB86FC" fill-opacity="0.10" stroke="#BB86FC" stroke-opacity="0.5"/>
+    <rect x="806" y="302" width="102" height="22" rx="11" fill="#BB86FC" fill-opacity="0.09" stroke="#BB86FC" stroke-opacity="0.42"/>
     <text x="857" y="317" text-anchor="middle" class="pil" fill="#BB86FC">AI &#183; 3D</text>
-    <text x="908" y="388" text-anchor="end" class="tec chev c3" fill="#BB86FC">OPEN &#8594;</text>
+    <text x="908" y="388" text-anchor="end" class="tec" fill="#BB86FC" opacity="0.8">OPEN &#8594;</text>
   </g>
 </svg>
