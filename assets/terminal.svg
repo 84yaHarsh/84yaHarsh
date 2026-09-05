@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="940" height="390" viewBox="0 0 940 390" fill="none" role="img" aria-label="Animated terminal printing Harsh Kumar Chaurasia's profile with a live stack panel">
+  <defs>
+    <linearGradient id="tbg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0A0C12"/><stop offset="60%" stop-color="#0D1117"/><stop offset="100%" stop-color="#160A2A"/>
+    </linearGradient>
+    <linearGradient id="tbar" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#1A1035"/><stop offset="100%" stop-color="#12182B"/>
+    </linearGradient>
+    <linearGradient id="tedge" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#BB86FC"/><stop offset="50%" stop-color="#00F0FF"/><stop offset="100%" stop-color="#FF2E97"/>
+      <animate attributeName="x1" values="-1;0;1" dur="8s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="0;1;2" dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="barFill" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C2BFF"/><stop offset="100%" stop-color="#00F0FF"/>
+    </linearGradient>
+    <radialGradient id="tglow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7C2BFF" stop-opacity="0.30"/><stop offset="100%" stop-color="#7C2BFF" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="tsoft" x="-70%" y="-70%" width="240%" height="240%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="tcard"><rect x="1" y="1" width="938" height="388" rx="16"/></clipPath>
+
+    <clipPath id="c0"><rect x="30" y="62"  width="288" height="26"><animate attributeName="width" from="0" to="288" dur="0.7s" begin="0.2s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c1"><rect x="30" y="104" width="335" height="26"><animate attributeName="width" from="0" to="335" dur="0.7s" begin="1.0s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="30" y="136" width="486" height="26"><animate attributeName="width" from="0" to="486" dur="0.9s" begin="1.7s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="30" y="168" width="542" height="26"><animate attributeName="width" from="0" to="542" dur="1.0s" begin="2.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="30" y="200" width="430" height="26"><animate attributeName="width" from="0" to="430" dur="0.8s" begin="3.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="30" y="232" width="486" height="26"><animate attributeName="width" from="0" to="486" dur="0.9s" begin="4.4s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c6"><rect x="30" y="264" width="364" height="26"><animate attributeName="width" from="0" to="364" dur="0.7s" begin="5.3s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c7"><rect x="30" y="296" width="430" height="26"><animate attributeName="width" from="0" to="430" dur="0.8s" begin="6.0s" fill="freeze"/></rect></clipPath>
+
+    <style>
+      .mono { font: 500 15px 'Courier New', ui-monospace, monospace; letter-spacing: 0.4px; }
+      .ttl  { font: 600 12.5px 'Courier New', ui-monospace, monospace; letter-spacing: 1.6px; }
+      .lbl  { font: 600 10px 'Courier New', ui-monospace, monospace; letter-spacing: 1.2px; }
+      .k { fill:#00F0FF } .v { fill:#C9D1D9 } .p { fill:#FF2E97 } .a { fill:#BB86FC } .dim { fill:#6E7681 }
+      .ln { opacity:0; animation: pop .01s linear forwards; }
+      @keyframes pop { to { opacity:1 } }
+      .t0{animation-delay:.2s}.t1{animation-delay:1s}.t2{animation-delay:1.7s}.t3{animation-delay:2.6s}
+      .t4{animation-delay:3.6s}.t5{animation-delay:4.4s}.t6{animation-delay:5.3s}.t7{animation-delay:6s}
+      .cur { opacity:0; animation: cur 1s steps(1,end) infinite; animation-delay: 7s; }
+      @keyframes cur { 0%,49%{opacity:1} 50%,100%{opacity:0} }
+      .grow { transform: scaleX(0); transform-origin: 636px 0; animation: grow 1.25s cubic-bezier(.2,.8,.2,1) forwards; }
+      @keyframes grow { to { transform: scaleX(1) } }
+      .g1{animation-delay:1.2s}.g2{animation-delay:1.5s}.g3{animation-delay:1.8s}.g4{animation-delay:2.1s}.g5{animation-delay:2.4s}
+      .dot { animation: dot 2.6s ease-in-out infinite; }
+      @keyframes dot { 0%,100%{opacity:.45} 50%{opacity:1} }
+      .dot2{animation-delay:.4s} .dot3{animation-delay:.8s}
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+      @keyframes pulse { 0%,100%{opacity:.35} 50%{opacity:.95} }
+    </style>
+  </defs>
+
+  <g clip-path="url(#tcard)">
+    <rect width="940" height="390" fill="url(#tbg)"/>
+    <circle cx="140" cy="350" r="210" fill="url(#tglow)">
+      <animate attributeName="cx" values="140;780;140" dur="22s" repeatCount="indefinite"/>
+    </circle>
+    <rect width="940" height="44" fill="url(#tbar)"/>
+    <line x1="0" y1="44" x2="940" y2="44" stroke="#BB86FC" stroke-opacity="0.25"/>
+    <rect x="0" y="44" width="940" height="60" fill="#00F0FF" opacity="0.035">
+      <animate attributeName="y" values="44;390;44" dur="7s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <g filter="url(#tsoft)">
+    <circle cx="28" cy="22" r="6" fill="#FF5F57" class="dot"/>
+    <circle cx="50" cy="22" r="6" fill="#FEBC2E" class="dot dot2"/>
+    <circle cx="72" cy="22" r="6" fill="#28C840" class="dot dot3"/>
+  </g>
+  <text x="470" y="27" text-anchor="middle" class="ttl" fill="#BB86FC">harsh@github &#160;&#8212;&#160; ~/profile &#160;&#8212;&#160; zsh</text>
+
+  <g class="mono">
+    <g clip-path="url(#c0)" class="ln t0"><text x="30" y="80"><tspan class="p">&#10095;</tspan><tspan class="dim"> ~/profile </tspan><tspan class="a">$</tspan><tspan class="v"> whoami --verbose</tspan></text></g>
+    <g clip-path="url(#c1)" class="ln t1"><text x="30" y="122"><tspan class="a">&#9656; </tspan><tspan class="k">name&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">Harsh Kumar Chaurasia</tspan></text></g>
+    <g clip-path="url(#c2)" class="ln t2"><text x="30" y="154"><tspan class="a">&#9656; </tspan><tspan class="k">role&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">Software Engineer &#183; AI/ML + Full-Stack</tspan></text></g>
+    <g clip-path="url(#c3)" class="ln t3"><text x="30" y="186"><tspan class="a">&#9656; </tspan><tspan class="k">education&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">B.Tech CSE @ GL Bajaj &#183; 2023-27 &#183; 7.77 CGPA</tspan></text></g>
+    <g clip-path="url(#c4)" class="ln t4"><text x="30" y="218"><tspan class="a">&#9656; </tspan><tspan class="k">location&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">Greater Noida, Uttar Pradesh, IN</tspan></text></g>
+    <g clip-path="url(#c5)" class="ln t5"><text x="30" y="250"><tspan class="a">&#9656; </tspan><tspan class="k">building&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">autonomous AI agents + real-time apps</tspan></text></g>
+    <g clip-path="url(#c6)" class="ln t6"><text x="30" y="282"><tspan class="a">&#9656; </tspan><tspan class="k">dsa&#160;&#160;&#160;&#160;&#160;&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan class="v">300+ DSA problems solved</tspan></text></g>
+    <g clip-path="url(#c7)" class="ln t7"><text x="30" y="314"><tspan class="a">&#9656; </tspan><tspan class="k">status&#160;&#160;&#160;&#160;</tspan><tspan class="dim">: </tspan><tspan fill="#28C840">open to SWE / AI-ML internships</tspan></text></g>
+    <text x="30" y="350" class="ln t7"><tspan class="p">&#10095;</tspan><tspan class="dim"> ~/profile </tspan><tspan class="a">$</tspan></text>
+    <rect class="cur" x="160" y="336" width="10" height="19" fill="#00F0FF" filter="url(#tsoft)"/>
+  </g>
+
+  <line x1="608" y1="60" x2="608" y2="356" stroke="#BB86FC" stroke-opacity="0.3" stroke-dasharray="6 8">
+    <animate attributeName="stroke-dashoffset" values="0;-140" dur="8s" repeatCount="indefinite"/>
+  </line>
+
+  <g>
+    <text x="636" y="76" class="lbl" fill="#00F0FF" opacity="0.95">L I V E &#160;&#160;/ /&#160;&#160; S T A C K</text>
+    <circle cx="898" cy="72" r="4" fill="#28C840" class="dot" filter="url(#tsoft)"/>
+
+    <g class="lbl" fill="#8B949E">
+      <text x="636" y="104">C++</text><text x="636" y="140">JAVASCRIPT</text><text x="636" y="176">PYTHON</text>
+      <text x="636" y="212">REACT / NODE</text><text x="636" y="248">SQL / NOSQL</text>
+    </g>
+    <g fill="#1F2937">
+      <rect x="636" y="110" width="266" height="6" rx="3"/><rect x="636" y="146" width="266" height="6" rx="3"/>
+      <rect x="636" y="182" width="266" height="6" rx="3"/><rect x="636" y="218" width="266" height="6" rx="3"/>
+      <rect x="636" y="254" width="266" height="6" rx="3"/>
+    </g>
+    <g fill="url(#barFill)" filter="url(#tsoft)">
+      <rect class="grow g1" x="636" y="110" width="236" height="6" rx="3"/>
+      <rect class="grow g2" x="636" y="146" width="250" height="6" rx="3"/>
+      <rect class="grow g3" x="636" y="182" width="196" height="6" rx="3"/>
+      <rect class="grow g4" x="636" y="218" width="242" height="6" rx="3"/>
+      <rect class="grow g5" x="636" y="254" width="212" height="6" rx="3"/>
+    </g>
+
+    <text x="636" y="298" class="lbl" fill="#FF2E97" opacity="0.9">C O M M I T &#160; P U L S E</text>
+    <g fill="#00F0FF" opacity="0.85">
+      <rect x="636" y="330" width="8" height="18" rx="2"><animate attributeName="height" values="18;40;8;28;18" dur="2.2s" repeatCount="indefinite"/><animate attributeName="y" values="330;308;340;320;330" dur="2.2s" repeatCount="indefinite"/></rect>
+      <rect x="654" y="330" width="8" height="30" rx="2" fill="#BB86FC"><animate attributeName="height" values="30;10;38;16;30" dur="2.6s" repeatCount="indefinite"/><animate attributeName="y" values="318;338;310;332;318" dur="2.6s" repeatCount="indefinite"/></rect>
+      <rect x="672" y="330" width="8" height="14" rx="2"><animate attributeName="height" values="14;36;20;42;14" dur="1.9s" repeatCount="indefinite"/><animate attributeName="y" values="334;312;328;306;334" dur="1.9s" repeatCount="indefinite"/></rect>
+      <rect x="690" y="330" width="8" height="24" rx="2" fill="#FF2E97"><animate attributeName="height" values="24;12;34;18;24" dur="2.4s" repeatCount="indefinite"/><animate attributeName="y" values="324;336;314;330;324" dur="2.4s" repeatCount="indefinite"/></rect>
+      <rect x="708" y="330" width="8" height="34" rx="2"><animate attributeName="height" values="34;18;44;22;34" dur="2.1s" repeatCount="indefinite"/><animate attributeName="y" values="314;330;304;326;314" dur="2.1s" repeatCount="indefinite"/></rect>
+      <rect x="726" y="330" width="8" height="16" rx="2" fill="#BB86FC"><animate attributeName="height" values="16;38;12;30;16" dur="2.8s" repeatCount="indefinite"/><animate attributeName="y" values="332;310;336;318;332" dur="2.8s" repeatCount="indefinite"/></rect>
+      <rect x="744" y="330" width="8" height="28" rx="2"><animate attributeName="height" values="28;14;40;20;28" dur="2s" repeatCount="indefinite"/><animate attributeName="y" values="320;334;308;328;320" dur="2s" repeatCount="indefinite"/></rect>
+      <rect x="762" y="330" width="8" height="20" rx="2" fill="#FF2E97"><animate attributeName="height" values="20;42;16;34;20" dur="2.5s" repeatCount="indefinite"/><animate attributeName="y" values="328;306;332;314;328" dur="2.5s" repeatCount="indefinite"/></rect>
+      <rect x="780" y="330" width="8" height="36" rx="2"><animate attributeName="height" values="36;16;28;44;36" dur="2.3s" repeatCount="indefinite"/><animate attributeName="y" values="312;332;320;304;312" dur="2.3s" repeatCount="indefinite"/></rect>
+      <rect x="798" y="330" width="8" height="12" rx="2" fill="#BB86FC"><animate attributeName="height" values="12;34;22;40;12" dur="1.8s" repeatCount="indefinite"/><animate attributeName="y" values="336;314;326;308;336" dur="1.8s" repeatCount="indefinite"/></rect>
+      <rect x="816" y="330" width="8" height="26" rx="2"><animate attributeName="height" values="26;40;14;32;26" dur="2.7s" repeatCount="indefinite"/><animate attributeName="y" values="322;308;334;316;322" dur="2.7s" repeatCount="indefinite"/></rect>
+      <rect x="834" y="330" width="8" height="18" rx="2" fill="#FF2E97"><animate attributeName="height" values="18;30;44;12;18" dur="2.2s" repeatCount="indefinite"/><animate attributeName="y" values="330;318;304;336;330" dur="2.2s" repeatCount="indefinite"/></rect>
+      <rect x="852" y="330" width="8" height="32" rx="2"><animate attributeName="height" values="32;12;36;20;32" dur="2.45s" repeatCount="indefinite"/><animate attributeName="y" values="316;336;312;328;316" dur="2.45s" repeatCount="indefinite"/></rect>
+      <rect x="870" y="330" width="8" height="22" rx="2" fill="#BB86FC"><animate attributeName="height" values="22;38;10;34;22" dur="2.05s" repeatCount="indefinite"/><animate attributeName="y" values="326;310;338;314;326" dur="2.05s" repeatCount="indefinite"/></rect>
+      <rect x="888" y="330" width="8" height="14" rx="2"><animate attributeName="height" values="14;28;42;18;14" dur="2.65s" repeatCount="indefinite"/><animate attributeName="y" values="334;320;306;330;334" dur="2.65s" repeatCount="indefinite"/></rect>
+    </g>
+    <line x1="630" y1="350" x2="902" y2="350" stroke="#BB86FC" stroke-opacity="0.35" class="pulse"/>
+  </g>
+
+  <rect x="1" y="1" width="938" height="388" rx="16" fill="none" stroke="url(#tedge)" stroke-width="2" stroke-opacity="0.9"/>
+</svg>
